@@ -1,2 +1,0 @@
-# courses.github.io
-courses
